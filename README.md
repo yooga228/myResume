@@ -1,6 +1,6 @@
 # 🚀 YOOGAARUNA PRIYA PALANISAMY  
 
-### Electrical and Electronics Engineering Student | AI & Embedded Systems | Automation & Process Control  
+### Electrical and Electronics Engineering Student 
 
 📍 Kuala Lumpur, Malaysia | 📞 011-2325 9882 | 📧 pyooga28@gmail.com  
 
