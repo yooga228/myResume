@@ -1,92 +1,95 @@
-# 🚀 YOOGAARUNA PRIYA PALANISAMY  
+<h1 align="center">🚀 YOOGAARUNA PRIYA PALANISAMY</h1>
 
-### Electrical and Electronics Engineer
+<h3 align="center">Electrical and Electronics Engineer </h3>
 
-📍 Kuala Lumpur, Malaysia | 📞 011-2325 9882 | 📧 pyooga28@gmail.com  
+<p align="center">
+📍 Kuala Lumpur, Malaysia | 📞 011-2325 9882 | 📧 pyooga28@gmail.com
+</p>
 
----  
+---
 
 ## 🎯 Profile Summary  
-Logical and perceptive **Electrical and Electronics Engineering** student at **Universiti Tenaga Nasional (UNITEN)** with a strong passion for **hardware and software solutions**. Developed expertise in **automation, process control, AI, data analytics, machine learning, and embedded systems**. Adept at teamwork, leadership, and problem-solving in complex engineering challenges.  
+Logical and perceptive <strong>Electrical and Electronics Engineering</strong> student at <strong>Universiti Tenaga Nasional (UNITEN)</strong> with a strong passion for <strong>hardware and software solutions</strong>. Developed expertise in <strong>automation, process control, AI, data analytics, machine learning, and embedded systems through industry and academic experience</strong>. Adept at teamwork, leadership, and problem-solving in complex engineering challenges.  
 
-🔹 **Actively seeking full-time opportunities starting in July 2025** to apply technical expertise in **engineering and technology-driven industries**.  
+🔹 <strong>Actively seeking full-time opportunities starting in July 2025</strong> to apply technical expertise in <strong>engineering and technology-driven industries</strong>.  
 
----  
+---
 
 ## 💼 Work & Project Experiences  
 
-### **Internship - Automation Development Engineering (AI)**  
-📍 *Western Digital, Batu Kawan* | 📅 *July 2024 - September 2024*  
-- Designed and developed an **automatic data annotation web system** (1000+ lines of code).  
-- Leveraged **Grounding DINO** and **SAM2** for **object detection & segmentation**.  
-- Enhanced **image processing & computer vision** workflows, improving **AI model training efficiency**.  
+### 🏢 Internship - Automation Development Engineering (AI)  
+📍 <em>Western Digital, Batu Kawan</em> | 📅 <em>July 2024 - September 2024</em>  
+✔️ Designed and developed an <strong>automatic data annotation web system</strong> (1000+ lines of code).  
+✔️ Leveraged <strong>Grounding DINO</strong> and <strong>SAM2</strong> for <strong>object detection & segmentation</strong>.  
+✔️ Enhanced <strong>image processing & computer vision</strong> workflows, improving <strong>AI model training efficiency</strong>.  
 
-### **Final Year Project - Brain Tumour Detection System**  
-📅 *September 2024 - June 2025*  
-- Developing a **tumor detection system** using **transfer learning** for improved **medical image analysis**.  
-- Implementing **ResNet, Inception, and VGG architectures**, modifying output layers for higher accuracy.  
-- Applying **advanced deep learning techniques** to optimize model performance.  
+### 🎓 Final Year Project - Brain Tumour Detection System  
+📅 <em>September 2024 - June 2025</em>  
+✔️ Developing a <strong>tumor detection system</strong> using <strong>transfer learning</strong> for improved <strong>medical image analysis</strong>.  
+✔️ Implementing <strong>ResNet, Inception, and VGG architectures</strong>, modifying output layers for higher accuracy.  
+✔️ Applying <strong>advanced deep learning techniques</strong> to optimize model performance.  
 
-### **Integrated Design Project - SCADA System**  
-📅 *September 2024*  
-- Designed a **conceptual SCADA system** for a **2MW solar-biomass hybrid power plant**.  
-- Developed an **integrated automation strategy** for plant performance optimization.  
-- Simulated **PLC-based automation systems, EMS, and BMS** in **MATLAB** for energy optimization.  
+### ⚡ Integrated Design Project - SCADA System  
+📅 <em>September 2024</em>  
+✔️ Designed a <strong>conceptual SCADA system</strong> for a <strong>2MW solar-biomass hybrid power plant</strong>.  
+✔️ Developed an <strong>integrated automation strategy</strong> for plant performance optimization.  
+✔️ Simulated <strong>PLC-based automation systems, EMS, and BMS</strong> in <strong>MATLAB</strong> for energy optimization.  
 
----  
+---
 
 ## 🔬 Extracurricular Activities  
 
-### **Innovation & Exploration for Sustainability (INOVEX) - James Dyson Foundation**  
-📅 *February 2024* | **Prototype Designer**  
-- Led a **hand paralysis rehabilitation** project.  
-- Designed **3D-printable components** using **PTC Creo**.  
-- Managed **team planning, design, and prototype development**.  
+### 🏆 Innovation & Exploration for Sustainability (INOVEX) - James Dyson Foundation  
+📅 <em>February 2024</em> | <strong>Prototype Designer</strong>  
+✔️ Led a <strong>hand paralysis rehabilitation</strong> project.  
+✔️ Designed <strong>3D-printable components</strong> using <strong>PTC Creo</strong>.  
+✔️ Managed <strong>team planning, design, and prototype development</strong>.  
 
-### **International AI Hackathon (Hack@10)**  
-📅 *September 2023* | **AI Model Developer**  
-🔗 [GitHub Repository](https://github.com/yooga228/Fall-AI.git)  
-- Developed an **AI-based fall detection model** for elderly monitoring.  
-- Used **OpenCV** for computer vision pre-processing and trained models using **YOLOv8**.  
+### 💡 International AI Hackathon (Hack@10)  
+📅 <em>September 2023</em> | <strong>AI Model Developer</strong>  
+🔗 <a href="https://github.com/yooga228/Fall-AI.git">GitHub Repository</a>  
+✔️ Developed an <strong>AI-based fall detection model</strong> for elderly monitoring.  
+✔️ Used <strong>OpenCV</strong> for computer vision pre-processing and trained models using <strong>YOLOv8</strong>.  
 
-### **International ACEIC 2023**  
-📅 *September 2023* | **Arduino Programmer**  
-- Developed a **Smart Traffic System simulation** for **disabled pedestrian safety**.  
-- Programmed using **Arduino & Proteus simulation software**.  
-- **Awarded Bronze Medal** for innovation.  
+### 🚦 International ACEIC 2023  
+📅 <em>September 2023</em> | <strong>Arduino Programmer</strong>  
+✔️ Developed a <strong>Smart Traffic System simulation</strong> for <strong>disabled pedestrian safety</strong>.  
+✔️ Programmed using <strong>Arduino & Proteus simulation software</strong>.  
+✔️ <strong>Awarded Bronze Medal</strong> for innovation.  
 
-### **Multimedia & Technical Bureau - Table Tennis Club**  
-📅 *January 2022 - December 2023* | **Team Director**  
-- Led the **multimedia bureau**, overseeing content production.  
-- Coordinated **team projects and promotional activities**.  
+### 🎥 Multimedia & Technical Bureau - Table Tennis Club  
+📅 <em>January 2022 - December 2023</em> | <strong>Team Director</strong>  
+✔️ Led the <strong>multimedia bureau</strong>, overseeing content production.  
+✔️ Coordinated <strong>team projects and promotional activities</strong>.  
 
----  
+---
 
 ## 🎓 Education  
 
-### **Universiti Tenaga Nasional (UNITEN)**  
-📅 *Expected Graduation: June 2025*  
-- **Bachelor’s in Electrical and Electronics Engineering (Hons)**  
-- **CGPA: 3.95 / 4.00**  
+### 📚 Universiti Tenaga Nasional (UNITEN)  
+📅 <em>Expected Graduation: June 2025</em>  
+🎓 <strong>Bachelor’s in Electrical and Electronics Engineering (Hons)</strong>  
+📊 <strong>CGPA: 3.95 / 4.00</strong>  
 
----  
+---
 
 ## 🛠 Skills  
 
-### **Core Competencies**  
-✅ Fast Learner | ✅ Effective Time Management | ✅ Critical Thinking | ✅ Teamwork  
-✅ Project Management | ✅ IoT | ✅ Embedded Systems | ✅ AI & Machine Learning  
+### ⚙️ Core Competencies  
+✔️ Fast Learner | ✔️ Effective Time Management | ✔️ Critical Thinking | ✔️ Teamwork  
+✔️ Project Management | ✔️ IoT | ✔️ Embedded Systems | ✔️ AI & Machine Learning  
 
-### **Programming**  
-- **C/C++** | **Python** | **Assembly Language** | **HTML & CSS** | **VHDL**  
+### 💻 Programming  
+- <strong>C/C++</strong> | <strong>Python</strong> | <strong>Assembly Language</strong> | <strong>HTML & CSS</strong> | <strong>VHDL</strong>  
 
-### **Design & Simulation Software**  
-- **Proteus** | **Quartus** | **PTC Creo** | **Arduino IDE** | **MultiSim** | **LTSpice**  
-- **Adobe Photoshop & Premiere Pro** | **MATLAB/Simulink** | **Flask API** | **Docker**  
+### 🖥️ Design & Simulation Software  
+- <strong>Proteus</strong> | <strong>Quartus</strong> | <strong>PTC Creo</strong> | <strong>Arduino IDE</strong> | <strong>MultiSim</strong> | <strong>LTSpice</strong>  
+- <strong>Adobe Photoshop & Premiere Pro</strong> | <strong>MATLAB/Simulink</strong> | <strong>Flask API</strong> | <strong>Docker</strong>  
 
----  
+---
 
 ## 🌍 Languages  
-- **English** | **Tamil** | **Malay**  
+✔️ <strong>English</strong> | ✔️ <strong>Tamil</strong> | ✔️ <strong>Malay</strong>  
 
----  
+---
+
