@@ -1,12 +1,4 @@
-<h1 align="center">🚀 YOOGAARUNA PRIYA PALANISAMY</h1>
 
-<h3 align="center">Electrical and Electronics Engineer </h3>
-
-<p align="center">
-📍 Kuala Lumpur, Malaysia | 📞 011-2325 9882 | 📧 pyooga28@gmail.com
-</p>
-
----
 
 ## 🎯 Profile Summary  
 <p align="justify">
