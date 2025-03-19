@@ -9,9 +9,13 @@
 ---
 
 ## 🎯 Profile Summary  
+<p align="justify">
 Logical and perceptive <strong>Electrical and Electronics Engineering</strong> student at <strong>Universiti Tenaga Nasional (UNITEN)</strong> with a strong passion for <strong>hardware and software solutions</strong>. Developed expertise in <strong>automation, process control, AI, data analytics, machine learning, and embedded systems through industry and academic experience</strong>. Adept at teamwork, leadership, and problem-solving in complex engineering challenges.  
+</p>
 
+<p align="justify">
 🔹 <strong>Actively seeking full-time opportunities starting in July 2025</strong> to apply technical expertise in <strong>engineering and technology-driven industries</strong>.  
+</p>
 
 ---
 
