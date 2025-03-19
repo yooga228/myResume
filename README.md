@@ -1,139 +1,92 @@
-# Ir. Dr. Prajindra Sankar Krishnan  
+# 🚀 YOOGAARUNA PRIYA PALANISAMY  
 
- 
+### Electrical and Electronics Engineering Student | AI & Embedded Systems | Automation & Process Control  
 
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+📍 Kuala Lumpur, Malaysia | 📞 011-2325 9882 | 📧 pyooga28@gmail.com  
 
- 
+---  
 
-## 🚀 About Me  
+## 🎯 Profile Summary  
+Logical and perceptive **Electrical and Electronics Engineering** student at **Universiti Tenaga Nasional (UNITEN)** with a strong passion for **hardware and software solutions**. Developed expertise in **automation, process control, AI, data analytics, machine learning, and embedded systems**. Adept at teamwork, leadership, and problem-solving in complex engineering challenges.  
 
-I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing in **AI-driven analytics, IoT solutions, smart metering, and predictive energy systems**. With over **15 years of experience**, I have collaborated extensively with **Tenaga Nasional Berhad (TNB)** on projects involving **non-technical loss detection, smart grid optimization, and energy fraud prevention**. My work bridges **academia and industry**, focusing on AI applications that enhance **grid reliability, energy security, and sustainability**.
+🔹 **Actively seeking full-time opportunities starting in July 2025** to apply technical expertise in **engineering and technology-driven industries**.  
 
- 
+---  
 
-## 🛠 Technical Skills  
+## 💼 Work & Project Experiences  
 
-- **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
+### **Internship - Automation Development Engineering (AI)**  
+📍 *Western Digital, Batu Kawan* | 📅 *July 2024 - September 2024*  
+- Designed and developed an **automatic data annotation web system** (1000+ lines of code).  
+- Leveraged **Grounding DINO** and **SAM2** for **object detection & segmentation**.  
+- Enhanced **image processing & computer vision** workflows, improving **AI model training efficiency**.  
 
-- **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
+### **Final Year Project - Brain Tumour Detection System**  
+📅 *September 2024 - June 2025*  
+- Developing a **tumor detection system** using **transfer learning** for improved **medical image analysis**.  
+- Implementing **ResNet, Inception, and VGG architectures**, modifying output layers for higher accuracy.  
+- Applying **advanced deep learning techniques** to optimize model performance.  
 
-- **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
+### **Integrated Design Project - SCADA System**  
+📅 *September 2024*  
+- Designed a **conceptual SCADA system** for a **2MW solar-biomass hybrid power plant**.  
+- Developed an **integrated automation strategy** for plant performance optimization.  
+- Simulated **PLC-based automation systems, EMS, and BMS** in **MATLAB** for energy optimization.  
 
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
+---  
 
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+## 🔬 Extracurricular Activities  
 
- 
+### **Innovation & Exploration for Sustainability (INOVEX) - James Dyson Foundation**  
+📅 *February 2024* | **Prototype Designer**  
+- Led a **hand paralysis rehabilitation** project.  
+- Designed **3D-printable components** using **PTC Creo**.  
+- Managed **team planning, design, and prototype development**.  
+
+### **International AI Hackathon (Hack@10)**  
+📅 *September 2023* | **AI Model Developer**  
+🔗 [GitHub Repository](https://github.com/yooga228/Fall-AI.git)  
+- Developed an **AI-based fall detection model** for elderly monitoring.  
+- Used **OpenCV** for computer vision pre-processing and trained models using **YOLOv8**.  
+
+### **International ACEIC 2023**  
+📅 *September 2023* | **Arduino Programmer**  
+- Developed a **Smart Traffic System simulation** for **disabled pedestrian safety**.  
+- Programmed using **Arduino & Proteus simulation software**.  
+- **Awarded Bronze Medal** for innovation.  
+
+### **Multimedia & Technical Bureau - Table Tennis Club**  
+📅 *January 2022 - December 2023* | **Team Director**  
+- Led the **multimedia bureau**, overseeing content production.  
+- Coordinated **team projects and promotional activities**.  
+
+---  
 
 ## 🎓 Education  
 
-- **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
+### **Universiti Tenaga Nasional (UNITEN)**  
+📅 *Expected Graduation: June 2025*  
+- **Bachelor’s in Electrical and Electronics Engineering (Hons)**  
+- **CGPA: 3.95 / 4.00**  
 
-- **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
+---  
 
-- **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+## 🛠 Skills  
 
- 
+### **Core Competencies**  
+✅ Fast Learner | ✅ Effective Time Management | ✅ Critical Thinking | ✅ Teamwork  
+✅ Project Management | ✅ IoT | ✅ Embedded Systems | ✅ AI & Machine Learning  
 
-## 💼 Work Experience  
+### **Programming**  
+- **C/C++** | **Python** | **Assembly Language** | **HTML & CSS** | **VHDL**  
 
-### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
+### **Design & Simulation Software**  
+- **Proteus** | **Quartus** | **PTC Creo** | **Arduino IDE** | **MultiSim** | **LTSpice**  
+- **Adobe Photoshop & Premiere Pro** | **MATLAB/Simulink** | **Flask API** | **Docker**  
 
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
+---  
 
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
+## 🌍 Languages  
+- **English** | **Tamil** | **Malay**  
 
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
-
- 
-
-### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
-
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
-
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
-
- 
-
-### **Consultancy & Industry Projects**  
-
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
-
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
-
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
-
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
-
- 
-
-## 📂 Projects  
-
-### 🔹 AI-Based Renewable Energy Forecasting  
-
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
-
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
-
- 
-
-### 🔹 AI-Powered Smart Grid Analytics  
-
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
-
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
-
- 
-
-### 🔹 IoT & Smart Metering Solutions  
-
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
-
- 
-
-## 🎤 Talks & Workshops  
-
-- **AI in Energy Analytics** - UNITEN Industry Forum  
-
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
-
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
-
- 
-
-## 🏆 Publications & Research  
-
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
-
- 
-
-## 🏅 Certifications & Professional Memberships  
-
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-
-- **Certified Python Programmer for Data Science**  
-
-- **Certified Cybersecurity Specialist**  
-
-- **Industrial IoT (IIoT) Developer**  
-
- 
-
-## 📢 Connect with Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
-
- 
-
----
+---  
